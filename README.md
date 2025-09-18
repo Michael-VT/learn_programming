@@ -4,7 +4,8 @@ Learning programming to get a job in information technology.
 
 #### Method
 
-[](image/book-open.jpg)
+![](/image/book-open.jpg "The image abbout contest")
+![This is an alt text.](/image/sample.webp "This is a sample image.")
 
 I found several job postings on glassdoor.com and asked [Grock](https://grok.com/) to help me prepare for the interview. To start, I selected jobs with topics that were of moderate interest to me:
 Machine Learning, Data Analysis, Analytics, and related topics.
