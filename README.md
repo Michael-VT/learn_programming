@@ -8,6 +8,8 @@ Learning programming to get a job in information technology.
 ![](/image/book-open.jpg "The image abbout contest")
 ![This is an alt text.](/image/sample.webp "This is a sample image.")
 =======
+<img src="/image/book-open.jpg" alt="Начало повышения своих навыков в стиле самообразования" width="300" height="200">
+
 [!Book](image/book-open.jpg)
 >>>>>>> cdcc51463744a767cd90a65c83fb677edc5b0eed
 
